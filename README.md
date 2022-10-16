@@ -1,9 +1,8 @@
 ## Scripts
 
-The scripts of my videos will be published here. 
+The scripts of my videos will be published here. I chose GitHub because it's:
 
 
-I chose GitHub because it's:
 
 (1) free to use
 
